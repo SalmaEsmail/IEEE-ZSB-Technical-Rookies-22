@@ -30,6 +30,7 @@ public class JavaApplication20 {
                         break;
                     }
                 }
+               
             }
             System.out.println(s);
             j++;
