@@ -27,6 +27,7 @@ do
 {
 cout<<"\n\n *****MAIN MENU *****";
 cout<<"\n 1: Create a list";
+cout<<"\n 2: Display the list";
 cout<<"\n 3: Add a node at the beginning";
 cout<<"\n 4: Add a node at the end";
 cout<<"\n 5: Add a node before a given node";
@@ -36,7 +37,8 @@ cout<<"\n 8: Delete a node from the end";
 cout<<"\n 9: Delete a given node";
 cout<<"\n 10: Delete a node after a given node";
 cout<<"\n 11: Delete the entire list";
-cout<<"\n 12: EXIT";
+
+cout<<"\n 13: EXIT";
 cout<<"\n\n Enter your option : ";
 cin>>option;
 switch(option)
